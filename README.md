@@ -24,7 +24,6 @@ An innovative real estate app offering panoramic property tours, personalized pr
 
 - **Frontend:** Java, Android SDK
 - **Backend:** Google Firebase
-- **APIs:** Google Maps API
 
 ## User Interface
 
