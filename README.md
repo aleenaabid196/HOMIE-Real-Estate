@@ -29,33 +29,33 @@ An innovative real estate app offering panoramic property tours, personalized pr
 
 **Splash Screen**
 
-![Splash_Screen](https://raw.githubusercontent.com/aleenaabid196/HOMIE/refs/heads/main/UI_Screenshotss/Splash.jpg)
+![Splash_Screen](https://raw.githubusercontent.com/aleenaabid196/HOMIE-Real-Estate/refs/heads/main/UI_Screenshotss/Splash.jpg)
 
 **Signup**
 
-![Signup](https://raw.githubusercontent.com/aleenaabid196/HOMIE/refs/heads/main/UI_Screenshotss/Signup.jpg)
+![Signup](https://raw.githubusercontent.com/aleenaabid196/HOMIE-Real-Estate/refs/heads/main/UI_Screenshotss/Signup.jpg)
 
 **Login**
 
-![Login](https://raw.githubusercontent.com/aleenaabid196/HOMIE/refs/heads/main/UI_Screenshotss/Login.jpg)
+![Login](https://raw.githubusercontent.com/aleenaabid196/HOMIE-Real-Estate/refs/heads/main/UI_Screenshotss/Login.jpg)
 
 **Home**
 
-![Home](https://raw.githubusercontent.com/aleenaabid196/HOMIE/refs/heads/main/UI_Screenshotss/Home%20Page.jpg)
+![Home](https://raw.githubusercontent.com/aleenaabid196/HOMIE-Real-Estate/refs/heads/main/UI_Screenshotss/Home%20Page.jpg)
 
 **Profile**
 
-![Profile](https://raw.githubusercontent.com/aleenaabid196/HOMIE/refs/heads/main/UI_Screenshotss/Profile.jpg)
+![Profile](https://raw.githubusercontent.com/aleenaabid196/HOMIE-Real-Estate/refs/heads/main/UI_Screenshotss/Profile.jpg)
 
 **AD Details**
 
-![AD_Details](https://raw.githubusercontent.com/aleenaabid196/HOMIE/refs/heads/main/UI_Screenshotss/ADDetails.jpg)
+![AD_Details](https://raw.githubusercontent.com/aleenaabid196/HOMIE-Real-Estate/refs/heads/main/UI_Screenshotss/ADDetails.jpg)
 
 **House Details**
 
-![House_Details](https://raw.githubusercontent.com/aleenaabid196/HOMIE/refs/heads/main/UI_Screenshotss/House%20Details.jpg)
+![House_Details](https://raw.githubusercontent.com/aleenaabid196/HOMIE-Real-Estate/refs/heads/main/UI_Screenshotss/House%20Details.jpg)
 
 **Map**
 
-![Map](https://raw.githubusercontent.com/aleenaabid196/HOMIE/refs/heads/main/UI_Screenshotss/Map.jpg)
+![Map](https://raw.githubusercontent.com/aleenaabid196/HOMIE-Real-Estate/refs/heads/main/UI_Screenshotss/Map.jpg)
 
