@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981522289001",
+    "project_id": "graph-project-cffcb",
+    "storage_bucket": "graph-project-cffcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981522289001:android:0c550f1d73aac23dfd2df8",
+        "android_client_info": {
+          "package_name": "com.example.graphproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981522289001-ipmtn4jhed1javglph5cg1i5ipr0sg3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGCTsdvPD9bksgBQlydV2Y_1zVjbayFJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981522289001-ipmtn4jhed1javglph5cg1i5ipr0sg3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="1dp"
+    android:paddingBottom="5dp"
+    >
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        app:cardMaxElevation="2dp"
+        app:cardElevation="2dp"
+        app:cardCornerRadius="10dp"
+        android:layout_centerInParent="true"
+        android:backgroundTint="#E1E1E1">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingHorizontal="10dp"
+            android:paddingTop="8dp">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="200dp"
+                android:layout_height="140dp"
+                app:cardCornerRadius="10dp"
+                android:id="@+id/imgCardView">
+
+                <ImageView
+                    android:id="@+id/adTitlePicImgView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/house4"
+                    android:scaleType="centerCrop"
+                    android:layout_marginBottom="0dp"/>
+
+            </androidx.cardview.widget.CardView>
+
+
+            <TextView
+                android:id="@+id/adTitleTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/imgCardView"
+                android:layout_marginTop="5dp"
+                android:text="House For Sale In Lahore"
+                android:textColor="@color/black"
+                android:textSize="13sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/adPriceTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/adTitleTextView"
+                android:layout_marginTop="2dp"
+                android:text="1000000 PKR"
+                android:textSize="12sp"/>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+</RelativeLayout>

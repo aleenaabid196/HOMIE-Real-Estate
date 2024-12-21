@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Graph Project</string>
+    <string name="find_your_ndream_nplace_with">Find Your\nDream\nPlace with</string>
+    <string name="get_started">Get Started</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_signup">Don\'t have an account? Signup</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signup">Signup</string>
+    <string name="s_i_g_n_u_p">S I G N U P</string>
+    <string name="upload_image">UPLOAD IMAGE</string>
+    <string name="name">Name</string>
+</resources>
